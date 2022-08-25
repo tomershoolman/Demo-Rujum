@@ -1,3 +1,3 @@
-# Describtion about Rugum Game
+# Describtion about Rugum game
 
 The game 
